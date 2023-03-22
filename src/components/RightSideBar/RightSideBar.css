@@ -1,0 +1,38 @@
+.RighSidebar {
+    height: 100%;
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding: 1rem;
+    overflow: hidden;
+}
+
+.text p {
+    font-size: 0.9vmax;
+}
+
+.piechart img {
+    height: 200px;
+}
+
+.business-chart img {
+    height: 170px;
+}
+
+.rightside-top{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+    padding: 0 2rem;
+}
+
+.rightside-top img{
+    height: 3vmax;
+    width: 3vmax;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 1vmax;
+}

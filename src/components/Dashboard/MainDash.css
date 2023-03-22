@@ -1,0 +1,47 @@
+.MainDash {
+    height: 100%;
+    width: 55%;
+    padding: 1rem 2rem;
+    overflow: hidden;
+}
+
+.perc img {
+    height: 250px;
+    margin-top: 1vmax;
+}
+
+.pie {
+    margin-top: 2vmax;
+}
+
+.pie-img {
+    height: 170px;
+    margin-left: 6vmax;
+}
+
+.Pro-Img img {
+    height: 10vmax;
+    width: 10vmax;
+    border-radius: 50%;
+    margin-top: 2vmax;
+    object-fit: cover;
+    margin-bottom: 3vmax;
+}
+
+.paragraph p {
+    width: 70%;
+}
+
+.document {
+    margin-top: 3vmax;
+}
+
+.Pay {
+    margin-top: 3vmax;
+}
+
+.retirement {
+    margin-top: 3vmax;
+    height: 500px;
+    width: 600px;
+}
